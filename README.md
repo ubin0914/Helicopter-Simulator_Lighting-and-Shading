@@ -1,7 +1,7 @@
 # Helicopter-Simulator_Lighting-and-Shading
 前作品: [Helicopter Simulator](https://github.com/ubin0914/Helicopter-Simulator)
   
-延伸前作飛行模擬器，增加 太陽、大氣天空、探照燈、材質反射 等效果。
+延伸前作飛行模擬器，增加 太陽、大氣天空、探照燈、材質反射 等光照系統效果。
 ### 下載 [Document.pdf](https://github.com/ubin0914/Helicopter-Simulator_Lighting-and-Shading/blob/master/Document.pdf) 閱讀更詳細的技術說明
 ### 下載 [executable package](https://github.com/ubin0914/Helicopter-Simulator_Lighting-and-Shading/tree/master/executable%20package)，執行裡面的 MainExe.exe 即可立即遊玩
 # 執行畫面
