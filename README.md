@@ -1,4 +1,4 @@
-# Helicopter-Simulator_Viewing-and-Projection
+# Helicopter-Simulator_Lighting-and-Shading
 前作品: [Helicopter Simulator](https://github.com/ubin0914/Helicopter-Simulator)
   
 延伸前作飛行模擬器，增加 太陽、大氣天空、探照燈、材質反射 等效果。
